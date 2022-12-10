@@ -1,3 +1,3 @@
 
 # Author: Revathy Ponnambalam
-FROM jupyter/scipy-notebook
+FROM jupyter/datascience-notebook
